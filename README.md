@@ -2,7 +2,7 @@
 
 Streaker is a sleek and modern web application designed to help you track your daily progress towards a goal. With a clean, dark-themed interface, Streaker allows you to set an end goal, update your daily progress, visualize your progress with a graph, and even set a custom background image for motivation. It’s perfect for anyone looking to stay consistent and motivated!
 
-![Streaker Screenshot](https://github.com/datwalkerv/Streaker/blob/main/src/images/streaker.webp)
+![Streaker Screenshot](https://github.com/datwalkerv/Streaker/blob/main/streaker.webp)
 
 ---
 
@@ -89,9 +89,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Connect with Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/datwalkerv)
-- **Instagram**: [Your Instagram Profile](https://instagram.com/balagbalint)
-- **Email**: [Your Email](mailto:bbalint139@gmail.com)
+- **GitHub**: [datwalkerv](https://github.com/datwalkerv)
+- **Instagram**: [balagbalint](https://instagram.com/balagbalint)
+- **Email**: [bbalint139](mailto:bbalint139@gmail.com)
 
 ---
 
